@@ -22,11 +22,7 @@ Play against the computer or a friend, with clean UI and winner/draw detection.
 ---
 
 ## 📸 Screenshots
-> (Add your own screenshots here, e.g. from `/public/images` if you take them)
-
-Example:
-
-![Game Screenshot](./public/images/screenshot.png)
+![Game Screenshot](./public/images/tic%201.png)
 
 ---
 
