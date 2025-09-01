@@ -48,3 +48,32 @@ npm install
 npm start
 ```
 The app will start on: http://localhost:300
+
+---
+
+## 🎯 How to Play
+
+The game starts with Player X.
+
+Click any empty square to make your move.
+
+The game automatically checks for a winner or a draw.
+
+Hit the Reset button 🔄 to start over anytime.
+
+---
+
+## 📂 Project Structure
+```plaintext
+tic-tac-toe/
+│── public/
+│   └── index.html
+│── src/
+│   ├── App.js
+│   ├── App.css
+│   ├── Board.js
+│   ├── Square.js
+│   └── index.js
+│── package.json
+```
+---
