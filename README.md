@@ -21,11 +21,6 @@ Play against the computer or a friend, with clean UI and winner/draw detection.
 
 ---
 
-## 📸 Screenshots
-![Game Screenshot](./public/images/tic%201.png)
-
----
-
 ## 🛠️ Installation & Setup
 
 Clone the repository and run locally:
